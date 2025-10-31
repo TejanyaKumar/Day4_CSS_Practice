@@ -1,0 +1,77 @@
+/* ==========================================
+   CSS DAY 4 PRACTICE — PROFESSIONAL VERSION
+   Author: Tejanya Kumar
+   ========================================== */
+
+/* ---------- Global Reset ---------- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", "Segoe UI", Arial, sans-serif;
+}
+
+/* ---------- Body ---------- */
+body {
+    background-color: #f9fafb;
+    color: #1a202c;
+    line-height: 1.7;
+    padding: 40px 20px;
+}
+
+/* ---------- Header ---------- */
+header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+header h1 {
+    color: #2b6cb0;
+    font-size: 36px;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+header .subtitle {
+    color: #4a5568;
+    font-size: 18px;
+    margin-top: 8px;
+}
+
+/* ---------- Section Titles ---------- */
+h2 {
+    color: #2d3748;
+    font-size: 24px;
+    margin-bottom: 15px;
+    border-left: 4px solid #2b6cb0;
+    padding-left: 10px;
+}
+
+/* ---------- Paragraph Styling ---------- */
+p {
+    color: #2d3748;
+    background-color: #edf2f7;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    text-align: justify;
+    font-size: 17px;
+    text-decoration-line: underline;
+    text-decoration-color: #2b6cb0;
+    text-decoration-style: wavy;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* ---------- Strong Text ---------- */
+strong {
+    color: #2b6cb0;
+}
+
+/* ---------- Footer ---------- */
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: #718096;
+    border-top: 1px solid #e2e8f0;
+    padding-top: 20px;
+    margin-top: 50px;
+}
